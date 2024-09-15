@@ -32,13 +32,17 @@ A view of the Calculator interface, showcasing the simple design and functionali
 ![image](https://github.com/user-attachments/assets/c155a983-8e59-404f-a54d-a24a1598394c)
 
 **LIVE DEMO**
+
 Check out the live version of Calculator: [Calculator Website](https://lavannyaaa.github.io/Calculator/)
 
 **AUTHOR**
+
 Lavannyaaa
+
 GitHub
 
 **ACKNOWLEDGEMENT**
+
 Basic calculator design inspired by personal need for a quick, simple web-based calculator.
 Icons and fonts used from Font Awesome and Google Fonts.
 
