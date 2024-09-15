@@ -38,9 +38,7 @@ Check out the live version of Calculator: [Calculator Website](https://lavannyaa
 
 **AUTHOR**
 
-Lavannyaaa
-
-GitHub
+[lavannyaaa](https://github.com/lavannyaaa)
 
 **ACKNOWLEDGEMENT**
 
