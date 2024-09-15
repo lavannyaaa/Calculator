@@ -28,7 +28,8 @@ git clone https://github.com/lavannyaaa/Calculator.git
 - Use the AC (clear) button to reset the calculator and start new calculations.
   
 **SCREENSHOT**
-A view of the Calculator interface, showcasing the simple design and functionality.
+
+*A view of the Calculator interface, showcasing the simple design and functionality.*
 ![image](https://github.com/user-attachments/assets/c155a983-8e59-404f-a54d-a24a1598394c)
 
 **LIVE DEMO**
