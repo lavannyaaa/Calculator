@@ -25,7 +25,7 @@ git clone https://github.com/lavannyaaa/Calculator.git
 - Visit the Calculator website.
 - Enter numbers and select the desired arithmetic operation (addition, subtraction, etc.).
 - Click on the = button to see the result.
-- Use the C (clear) button to reset the calculator and start new calculations.
+- Use the AC (clear) button to reset the calculator and start new calculations.
   
 **SCREENSHOT**
 A view of the Calculator interface, showcasing the simple design and functionality.
